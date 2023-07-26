@@ -1,0 +1,89 @@
+.about-me {
+  display: fl;
+  height: 30vh;
+}
+li {
+  list-style: none;
+}
+
+a {
+  color: white;
+}
+
+#test {
+  color: white;
+}
+#test:hover {
+  color: #f1bc1d;
+}
+
+#profle-photo {
+  border-radius: 100%;
+  border: 3px solid #f1bc1d;
+}
+
+.btn-light:hover {
+  background-color: #f1bc1d;
+  border: none;
+}
+
+.btn-outline-light:hover {
+  background-color: #f1bc1d;
+  border: none;
+}
+
+.header {
+  /*#212529;*/
+  background: rgba(0, 0, 0, 0.785);
+  color: #f1f1f1;
+  position: fixed;
+  width: 100%;
+  z-index: 15;
+}
+
+#fitMateProduct {
+  background-image: url(./images/Fitmate-logo.png);
+  background-position: top;
+  background-size: 95%;
+  background-color: violet;
+}
+
+p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.card-cover {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.b-example-divider {
+  width: 100%;
+  height: 3rem;
+  background-color: rgba(0, 0, 0, 0.1);
+  border: solid rgba(0, 0, 0, 0.15);
+  border-width: 1px 0;
+  box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, 0.1),
+    inset 0 0.125em 0.5em rgba(0, 0, 0, 0.15);
+
+}
+
+#sendButton {
+  background-color: #f1bc1d;
+  border: none;
+}
+
+#sendButton:hover {
+  background-color: white;
+}
+
+
+.socialsSite:hover {
+  color: #f1bc1d;
+}
+
+.resumeH2 {
+  color: #f1bc1d;
+}
