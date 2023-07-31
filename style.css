@@ -1,5 +1,4 @@
 .about-me {
-  display: fl;
   height: 30vh;
 }
 li {
@@ -36,7 +35,6 @@ a {
   /*#212529;*/
   background: rgba(0, 0, 0, 0.785);
   color: #f1f1f1;
-  position: fixed;
   width: 100%;
   z-index: 15;
 }
